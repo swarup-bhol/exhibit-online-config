@@ -1,0 +1,16 @@
+server:
+  port: 8033
+
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    virtual-host: exhibitonline_vhost
+    username: exhibitonline
+    password: '{cipher}AQCcrThGaQh7ow1NllU9mAJLbiuUJyIkkwSZw/aL2P9s5trLi44+p+XWa+yCvRlKJ/GWnaf6bJ8e3fcxQ9S0CONPuUPMcCuqtF/e8Lg5wy+BYTmrSkcUI/PY3Tcaorn86cDbhKY3HaFhzWs1nH9HUHRxg1lc1dHmgGWNmBHD+RDrXrIJabzoc1vkY1z+KYxFRfEKHc1waHda7L6aepGsU8Zod4XupZWkzO2mQep+exkYymYiQuJ12C2iUVBAeRD6ygmODMm1Gh4W6dw39aGmTTt1tyU5nrLXccQrWtnZbpIdDJpHsRmgwpYM/2c9KM8TpbW86B0UJvtKpVgcy/e9vfUPCTX+bmXyGxE9CmYvKbnY/B0oYTAGF9JyKwFW+FzN4jA='
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
