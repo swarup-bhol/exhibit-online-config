@@ -44,6 +44,6 @@ zuul:
       service-id: art-service
       strip-prefix: true
     event-service:
-      path: /1.0/event-service/**
-      service-id: event-service
+      path: /1.0/events-service/**
+      service-id: events-service
       strip-prefix: true
