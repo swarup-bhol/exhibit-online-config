@@ -7,4 +7,4 @@ security:
       token-info-uri: http://oauth-server/oauth/check_token
 
 url:
-  invitation-status-update: http://localhost:8033/api/1.0/events-service/invitations/{invitationId}/status/{token}
+  invitation-status-update: http://localhost:4200/#/app/invitations/{invitationId}/status/{token}
