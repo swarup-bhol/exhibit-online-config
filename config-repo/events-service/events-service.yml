@@ -22,6 +22,6 @@ message:
   invitation_status_update_success: Thank you for your Response.
   invitation_status_update_failed: We are not able to take your response currently.
   event_venue_add_success: Your venue has been created successfully.
-  event_venue_add_failed: Failed to add new Venue;
+  event_venue_add_failed: Failed to add new Venue.
 url:
   invitation-status-update: http://localhost:4200/#/app/invitations/{invitationId}/status/{token}
