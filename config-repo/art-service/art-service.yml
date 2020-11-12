@@ -30,4 +30,4 @@ message:
 
 url:
   arts-upload-path: src/main/resources/images/arts/
-  media-upload-path: src/main/resources/images/arts/
+  media-upload-path: src/main/resources/images/media/
