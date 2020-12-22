@@ -10,8 +10,8 @@ spring:
     password: '{cipher}AQCcrThGaQh7ow1NllU9mAJLbiuUJyIkkwSZw/aL2P9s5trLi44+p+XWa+yCvRlKJ/GWnaf6bJ8e3fcxQ9S0CONPuUPMcCuqtF/e8Lg5wy+BYTmrSkcUI/PY3Tcaorn86cDbhKY3HaFhzWs1nH9HUHRxg1lc1dHmgGWNmBHD+RDrXrIJabzoc1vkY1z+KYxFRfEKHc1waHda7L6aepGsU8Zod4XupZWkzO2mQep+exkYymYiQuJ12C2iUVBAeRD6ygmODMm1Gh4W6dw39aGmTTt1tyU5nrLXccQrWtnZbpIdDJpHsRmgwpYM/2c9KM8TpbW86B0UJvtKpVgcy/e9vfUPCTX+bmXyGxE9CmYvKbnY/B0oYTAGF9JyKwFW+FzN4jA='
   datasource:
     url: jdbc:mysql://localhost:3306/events_service
-    username: '{cipher}AQB44vdjipA3dXAd+at4rU5urWrz3UgA/hqrU3mky5bt17yBX7dDBrhB8YUOsN3h2Q1cPBP3a9dgYsVlrDKY0hEa1xFLGDs7uAxDEFxEBfROWXOjTSHpeWAhtrHzQB+dWqXpzRpoj2M7LRYtlZPKl2Pf5VchpaO2evtjdr2HnfaXuMw2a5/SBHBZyJaCtkYDkSoLPuQ9oYZBNhbnk/1XxaNxOEib4ammgNVTz5sS7dMHUVj4aZBs52KOoqlN2SzywD21yZR4xdID03DHwNY2h+v9RVKVEJ/QsFysRRppGC0KIEuPQCoznQenVsQg3uEE9Qbd1Xd+ffaOd07akb/8kHLZQb2FRuGXo7kZLQuYKKK+eqiR1fM5MJelzE2CcygcTiU='
-    password: '{cipher}AQBsQkB1AjQkyvvVl8zNh5ZcUQw9l7+Dv/QmXNnq8tO9lq8IgvTq9z8+qf/JKg9/Ixg89X8KZbwl1WnbRMcAb1CUvFsVD+5TzFbDfASZ3hRK+mXO8K1RmmQuTtuRLuScDOpcwZSCT7IKnOnik3fq8UCUOXF51bX2qCHTw9yJtKw3OOfEni36hqlIO0J9YakhybYOQqzzvTOerXmi6cLcSur/7QUo5+Gs6xZ2OuOlyu6esPI7Qtije9zaOyXpJuraFgPdq4Mnm0om/gii/fO1chiVsmr4NybeARoT5L4FN7XN2sWHFzkQYFtnJRcJX5zUrc67AaFChzmgS3n0H0TcRQNPoZgebzMljK7wVp9e13GRdBIs8LyoE1Sx8HFcPcgfuNY='
+    username: root
+    password: mindfire
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     show-sql: true
